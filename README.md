@@ -1,6 +1,6 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=single-thread.single-thread) -->
 
-🌱 I’m currently Golang.
+🌱 I’m currently using JS & TS, Go.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
